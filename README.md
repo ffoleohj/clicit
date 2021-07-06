@@ -1,4 +1,4 @@
-# clicit
+# ClicIT
 
 Buenas tardes, este es el avance de la página web ClicIT, hay unas carpetas que son los css3, los javascript, etc. Este es el avance en cuanto al Front-End, aun no hay nada funcional, lo observa por favor y me comenta si falta agregar o modificar algo.
 
